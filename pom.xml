@@ -16,7 +16,6 @@
 	<properties>
 		<java.version>17</java.version>
 	</properties>
-	<testSourceDirectory>src/main/test/java/com/team</testSourceDirectory>
 
 
 	<dependencies>
@@ -183,6 +182,8 @@
 	</distributionManagement>
 
 	<build>
+		<testSourceDirectory>src/main/test/java/com/team</testSourceDirectory>
+
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
