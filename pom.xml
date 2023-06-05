@@ -189,7 +189,7 @@
 				<version>3.1.0</version>
 				<configuration>
 				  <includes>
-				    <include>%regex[.*(Cat|Dog).*test.*]</include>
+				    <include>%regex[.*(Cat|Dog).*Test.*]</include>
 				  </includes>
 				</configuration>
 			</plugin>
