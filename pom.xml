@@ -182,7 +182,7 @@
 	</distributionManagement>
 
 	<build>
-		<testSourceDirectory>src/main/test/java/com/team</testSourceDirectory>
+		<testSourceDirectory>src/main/test/java/comm</testSourceDirectory>
 
 		<plugins>
 			<plugin>
