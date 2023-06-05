@@ -16,6 +16,9 @@
 	<properties>
 		<java.version>17</java.version>
 	</properties>
+	<testSourceDirectory>src/main/test/java/com/team</testSourceDirectory>
+
+
 	<dependencies>
 
 		<dependency>
